@@ -8,7 +8,7 @@ This repository contains the official implementation of CMA.
 📄 **Paper**: \[[arXiv](https://arxiv.org/abs/2503.18817)\] \[[Project Page](https://ma-kjh.github.io/CMA-OoDD-Project/)\]  
 
 <p align="center">
-    <img alt="CMA Overview" src="https://github.com/ma-kjh/CMA/blob/main/main.jpg" width="50%"/>
+    <img alt="CMA Overview" src="https://github.com/ma-kjh/CMA-OoDD/blob/main/main.jpg" width="50%"/>
 </p>
 
 ## Abstract
