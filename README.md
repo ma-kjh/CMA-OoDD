@@ -133,7 +133,7 @@ https://github.com/locuslab/FLYP
 
 ## 📢 Contact
 
-For any issues or questions, please raise an [issue](https://github.com/ma-kjh/CMA/issues) or contact the authors.
+For any issues or questions, please raise an [issue](https://github.com/ma-kjh/CMA-OoDD/issues) or contact the authors.
 
 ---
 
