@@ -122,10 +122,11 @@ https://github.com/locuslab/FLYP
 ```
 ## 📝 Citation
 ```
-@article{kim2025enhanced,
+@inproceedings{kim2025enhanced,
   title={Enhanced OoD Detection through Cross-Modal Alignment of Multi-Modal Representations},
   author={Kim, Jeonghyeon and Hwang, Sangheum},
-  journal={arXiv preprint arXiv:2503.18817},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={29979--29988},
   year={2025}
 }
 ```
